@@ -1,0 +1,48 @@
+TIMING:
+4	16384	1.00e-06	5
+Time Step 0
+Processor 0
+	Total Time = 408309
+Processor 1
+	Total Time = 408378
+Processor 2
+	Total Time = 407252
+Processor 3
+	Total Time = 409645
+Time Step 1
+Processor 0
+	Total Time = 373238
+Processor 1
+	Total Time = 372663
+Processor 2
+	Total Time = 373799
+Processor 3
+	Total Time = 371769
+Time Step 2
+Processor 0
+	Total Time = 386585
+Processor 1
+	Total Time = 386736
+Processor 2
+	Total Time = 386858
+Processor 3
+	Total Time = 386457
+Time Step 3
+Processor 0
+	Total Time = 372934
+Processor 1
+	Total Time = 372931
+Processor 2
+	Total Time = 372550
+Processor 3
+	Total Time = 373013
+Time Step 4
+Processor 0
+	Total Time = 373231
+Processor 1
+	Total Time = 373223
+Processor 2
+	Total Time = 373243
+Processor 3
+	Total Time = 373245
+END
