@@ -6,7 +6,7 @@ The RISCV Port of SPLASH-2 benchmark suit
 # 1--> Compile
 	   in Makefile.config
 	   set CC := to your riscv-gcc compiler
-	   set BASEDIR :=  to the dorectory where this makefile is located. 
+	   set BASEDIR :=  to the directory where this makefile is located. 
 
 
 
